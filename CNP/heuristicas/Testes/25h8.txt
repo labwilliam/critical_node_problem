@@ -1,0 +1,13 @@
+heuristica 1 (betweenness): 01 14 16 21 03 02 19 20 
+componentes: 2
+
+heuristica 2 (frequencia):  01 02 03 14 16 19 20 21 
+componentes: 2
+
+heuristica 3 (closeness):   01 14 02 16 21 03 22 00 
+componentes: 1
+
+heuristica 4 (eigenvector): 14 01 02 16 21 22 03 00 
+componentes: 1
+
+Tempo: 0.007534 s

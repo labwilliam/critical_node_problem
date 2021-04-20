@@ -1,0 +1,3 @@
+metodo exato: 02 04 05 09 12 13 14 15 
+componentes: 4
+Tempo: 0.323548 s

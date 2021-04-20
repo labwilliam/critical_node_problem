@@ -1,0 +1,3 @@
+metodo exato: 02 03 05 06 10 11 12 13 
+componentes: 2
+Tempo: 7.07363 s
